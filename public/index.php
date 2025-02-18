@@ -1,7 +1,7 @@
 <?php 
 
 if(isset($_GET['p'])){
-    switch(isset($_GET['p'])){
+    switch($_GET['p']){
         case 'aboutme':
             include '../templates/aproposView.php';
             break;
