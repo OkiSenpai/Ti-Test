@@ -9,5 +9,7 @@
 <body>
     <?php include '../templates/inc/menuIncView.php'; ?>
     <h1>Accueil</h1>
+
+    <?php include '../templates/inc/footerIncView.php'; ?>
 </body>
 </html>
