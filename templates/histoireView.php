@@ -10,6 +10,9 @@
     <?php include '../templates/inc/menuIncView.php'; ?>
 
     <h1>Notre histoire</h1>
-
+    <img src="/images/WhatsApp Image 2025-02-18 à 20.44.46_652804d5.jpg" alt="">
+    <img src="/images/WhatsApp Image 2025-02-18 à 20.44.46_652804d5.jpg" alt="">
+    <img src="/images/WhatsApp Image 2025-02-18 à 20.44.46_652804d5.jpg" alt="">
+    <?php include '../templates/inc/footerIncView.php'; ?>
 </body>
 </html>

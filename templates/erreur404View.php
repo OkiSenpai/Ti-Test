@@ -9,5 +9,6 @@
 <body>
     <?php include '../templates/inc/menuIncView.php'; ?>
     <h1>Erreur 404</h1>
+    <?php include '../templates/inc/footerIncView.php'; ?>
 </body>
 </html>
